@@ -1,4 +1,3 @@
-# halow-mesh-field-tests
 # IEEE 802.11ah (Wi-Fi HaLow) Tactical Mesh Network: Field Measurements, Performance Analysis, and Operational Use Cases
 
 **AVC Consulting Technical Report**
